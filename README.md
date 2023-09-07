@@ -1,3 +1,1 @@
-import wikipedia
-result=wikipedia.summary("barcelona")
-print(result)
+This program is for summary search.
