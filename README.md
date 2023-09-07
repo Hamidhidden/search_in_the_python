@@ -1,2 +1,3 @@
-# search_in_the_python
-search summery with python
+import wikipedia
+result=wikipedia.summary("barcelona")
+print(result)
